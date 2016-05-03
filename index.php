@@ -5,6 +5,6 @@
     <title>Git</title>
 </head>
 <body>
-<h1>The git</h1>
+<h1>Learn git </h1>
 </body>
 </html>
